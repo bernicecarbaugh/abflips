@@ -1,6 +1,8 @@
 // color variables
 $abflips-color1: #e65119;
 $abflips-color2: orange;
+$abflips-color3: #17a2b8;
+
 
 .navbar-dark {
   background-color:$abflips-color1;
@@ -20,5 +22,15 @@ $abflips-color2: orange;
 
 .project-card-header {
   background-color: $abflips-color1;
+  color: white;
+}
+
+.modal-content, .card-body {
+  background-color: $abflips-color3;
+  color: white;
+}
+
+.modal-header, .card-header {
+  background-color: orange;
   color: white;
 }

@@ -10,3 +10,15 @@
   padding: 0.25rem;
   border: 1px solid #FFFFFF;
   height: 200px; }
+
+.project-card-header {
+  background-color: #e65119;
+  color: white; }
+
+.modal-content, .card-body {
+  background-color: #17a2b8;
+  color: white; }
+
+.modal-header, .card-header {
+  background-color: orange;
+  color: white; }
