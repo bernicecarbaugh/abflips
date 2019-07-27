@@ -1,15 +1,12 @@
 .navbar-dark {
-  background-color:#e65119;
-}
+  background-color: #e65119; }
 
 .jumbotron {
-  background-color:orange;
+  background-color: orange;
   color: white;
-  padding: 80px 0px 10px 0px;
-}
+  padding: 80px 0px 10px 0px; }
 
 .img-modal-carousel {
   padding: 0.25rem;
   border: 1px solid #FFFFFF;
-  height: 200px;
-}
+  height: 200px; }
