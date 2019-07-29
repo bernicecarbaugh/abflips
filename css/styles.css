@@ -17,8 +17,16 @@
 
 .modal-content, .card-body {
   background-color: #17a2b8;
-  color: white; }
+  color: white;
+  text-align: left; }
 
 .modal-header, .card-header {
   background-color: orange;
   color: white; }
+
+.card {
+  margin-top: 15px;
+  margin-bottom: 15px; }
+
+.card-body {
+  height: 300px; }

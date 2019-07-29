@@ -1,14 +1,14 @@
-Highland Park 1 300, 660
-Hall Lake 357, 38
-Lakeview 675, 166
-Rolling Hills 521, 800
-Highland Park 2 284, 652
-Matthews Beach 390, 262
-Broadview 289,225
-Arrowhead 453, 205
-Magnolia 241, 419
-Queen Anne 2 295, 408
-Kenmore 76 462, 135
+highland-park1 300, 660
+hall-lake 357, 38
+lakeview 675, 166
+rolling-hills 521, 800
+highland-park2 284, 652
+matthews-beach 390, 262
+broadview 289,225
+arrowhead 453, 205
+magnolia 241, 419
+queen-anne2 295, 408
+kenmore76 462, 135
 
 Breadcrumbs
 list of projects
