@@ -20,6 +20,16 @@ $abflips-color3: #17a2b8;
   height: 200px;
 }
 
+.figure-img {
+  height: 250px;
+  border: 2px solid white;
+  margin: 5px;
+}
+
+.figure-caption {
+  margin: 5px;
+}
+
 .project-card-header {
   background-color: $abflips-color1;
   color: white;
@@ -43,4 +53,18 @@ $abflips-color3: #17a2b8;
 
 .card-body {
   height: 300px;
+}
+
+.accordion{
+  .btn-link {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: white;
+  };
+  .card-body {
+    height: auto;
+  };
+  .card {
+    margin: 0px;
+  }
 }
